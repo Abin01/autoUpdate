@@ -1,0 +1,15 @@
+{
+  "app_name": "eaccount-client.exe",
+  "description": "",
+  "exe_md5": "",
+  "exe_name": "",
+  "exe_size": "",
+  "exe_url": "",
+  "localpath": "",
+  "path": "C:\\Users\\Administrator\\Desktop\\qzf-client",
+  "update_url": "http://127.0.0.1:8004/api/getVersion",
+  "version": 20191223,
+  "zip_md5": "",
+  "zip_size": "",
+  "zip_url": ""
+}
